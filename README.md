@@ -2,6 +2,17 @@ Traffic Stop Patterns Analysis
 
 This project analyzes traffic stop data to identify temporal, geographic, and behavioral patterns in traffic enforcement using Python and pandas.
 
+Data Availability
+
+The dataset used in this project is not included in the repository due to file size
+constraints. CSV files are excluded from version control.
+
+To reproduce the analysis:
+1. Download the traffic stop dataset from https://openpolicing.stanford.edu/data/.
+2. Place the CSV file in the directory.
+3. Run `clean.py` to generate the cleaned dataset.
+4. Run `analysis.py` to reproduce the results and visualizations.
+
 Key Findings
 
 Temporal Patterns
@@ -18,4 +29,6 @@ Speeding Behavior
     Among records with valid speed data, speeding is a dominant factor. The median stop occurs at 15 mph over the speed limit, and 90% of drivers are stopped at 23 mph over the speed limit or less.
 
 Conclusion
+
     Analysis shows that enforcement is time dependent, geographically concentrated, and strongly associated with speeding behavior. Stops are most common during weekday afternoons and commute hours, clustered in a limited number of districts, and drivers are often well above speed limits. 
+

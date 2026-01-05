@@ -29,6 +29,4 @@ Speeding Behavior
     Among records with valid speed data, speeding is a dominant factor. The median stop occurs at 15 mph over the speed limit, and 90% of drivers are stopped at 23 mph over the speed limit or less.
 
 Conclusion
-
     Analysis shows that enforcement is time dependent, geographically concentrated, and strongly associated with speeding behavior. Stops are most common during weekday afternoons and commute hours, clustered in a limited number of districts, and drivers are often well above speed limits. 
-
